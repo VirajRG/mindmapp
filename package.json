@@ -5,6 +5,7 @@
   "dependencies": {
     "antd": "^3.13.4",
     "babel-plugin-import": "^1.11.0",
+    "base64-img": "^1.0.4",
     "customize-cra": "^0.2.11",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
